@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sovers-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sovers-pandey" height="30" width="40" /></a>
 <a href="https://fb.com/sovers.t.pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sovers.t.pandey" height="30" width="40" /></a>
-<a href="https://discord.gg/s0vers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s0vers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
