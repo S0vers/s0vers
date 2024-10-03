@@ -1,8 +1,8 @@
 <h1 align="center">Sovers Tonmoy Pandey</h1>
-<h3 align="center">Full-Stack Developer | MERN Developer | Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN Specialist | Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Crafting+elegant+user+interfaces;Optimizing+backend+performance;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Crafting+elegant+user+interfaces;Optimizing+backend+performance;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,16 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+Passionate full-stack developer with a keen eye for design and a love for building scalable, efficient web applications. Specializing in the MERN stack with a focus on Next.js and TypeScript. Always eager to learn and implement cutting-edge technologies.
+
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -28,14 +33,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react&bg_color=87CEEB&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react&background=87CEEB&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react" alt="Top Languages" />
-</p>
+---
