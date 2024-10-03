@@ -1,5 +1,5 @@
 <h1 align="center">Sovers Tonmoy Pandey</h1>
-<h3 align="center">Full-Stack Developer | MERN Specialist | Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN Developer | Next.js Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Crafting+elegant+user+interfaces;Optimizing+backend+performance;Always+learning%2C+always+growing" alt="Typing SVG" />
@@ -38,10 +38,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s0vers&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
