@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN Specialist | Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Crafting+elegant+user+interfaces;Optimizing+backend+performance;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Crafting+elegant+user+interfaces;Optimizing+backend+performance;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,12 +34,12 @@ Passionate full-stack developer with a keen eye for design and a love for buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react&bg_color=87CEEB&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react&background=87CEEB&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react" alt="GitHub Streak" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
