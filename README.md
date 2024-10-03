@@ -34,12 +34,9 @@ Passionate full-stack developer with a keen eye for design and a love for buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s0vers&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0vers&theme=react&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="150" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
