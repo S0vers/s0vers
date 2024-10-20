@@ -39,4 +39,4 @@ Passionate full-stack developer with a keen eye for design and a love for buildi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0vers&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
-------------------
+-----------------------
