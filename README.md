@@ -50,8 +50,8 @@ Passionate full-stack developer with a keen eye for design and a love for buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=s0vers" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=s0vers" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=s0vers" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=s0vers" alt="Top Languages" height="180" />
 </div>
 
 -----------------------
