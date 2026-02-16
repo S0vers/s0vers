@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sovers-pandey" target="_blank">
+  <a href="https://linkedin.com/in/s0vers" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/sovers.t.pandey" target="_blank">
